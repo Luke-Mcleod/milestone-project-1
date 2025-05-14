@@ -1,0 +1,14 @@
+body {
+    background-image: url(../images/dynasty-bg-img.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    color: white;
+    padding-top: 70px;
+}
+
+main {
+    color : white;
+}
